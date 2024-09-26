@@ -22,4 +22,4 @@ is also something which need to be only available in the uppermost Hemisphere an
 cancer or these kind of things and all the combination of this there is an index called as aqi which is being
 calculated there are certain days where the sensors are not working so that's the reason there are some blank values.
 
-Dashbord Link :
+Dashbord link : Air Quality Analysis.pbit
